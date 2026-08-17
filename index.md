@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog!
 
-- i`m goat
+- i`m goat!
 ---
